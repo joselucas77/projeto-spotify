@@ -6,7 +6,7 @@
 
 <img src="imagens/gif.gif" alt="visualização no pc">
 
-<a href="https://joselucas77.github.io/projeto-chale_hotel/">🔗 Acesse aqui o projeto</a>
+<a href="https://joselucas77.github.io/projeto-spotify/">🔗 Acesse aqui o projeto</a>
 
 ## Tecnologias ultilizadas e informações adicionais
 
